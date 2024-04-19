@@ -22,7 +22,7 @@ Our dataset is structured as follows to aid in training and testing the face det
 Clone this repository to begin using the face detection tools:
 
 ```bash
-git clone https://github.com/yourusername/OpenVisionDetect.git
+git clone https://github.com/wajoud/OpenVisionDetect.git
 cd OpenVisionDetect
 ```
 
@@ -31,8 +31,8 @@ cd OpenVisionDetect
 Navigate through the repository to explore different scripts and tutorials:
 
 ```bash
-cd src
-python detect_faces.py
+
+Face detection .ipynb
 ```
 
 ## 🤝 Contributing
